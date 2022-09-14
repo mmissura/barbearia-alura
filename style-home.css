@@ -1,0 +1,101 @@
+
+
+  .principal{
+    background: #CCCCCC;
+    padding: 30px;
+  }
+
+  .cabecalho{
+    position: relative;
+    text-align: center;
+    background: #CCCCCC;
+  }
+
+  .titulo-principal{
+    text-decoration: underline;
+    padding-left: 30px;
+    position: relative;
+    margin: 0 0 0 15px;
+    text-align: center;
+    font-size: 50px;
+  }
+
+  nav{
+    position: absolute;
+    top: 110px;
+    right: 0;
+    left: auto;
+    
+  }
+
+  nav li{
+    display: inline;
+    margin: auto;
+  }
+
+  nav a{
+    text-transform: uppercase;
+    color: red;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+  }
+
+  nav a:hover{
+  color: #C78C19;
+  text-decoration: underline;
+  }
+
+  .titulo-centralizado{
+    text-align: center;  
+    font-size: 40px;
+  }
+
+  p {
+    text-align: center;
+  }
+
+  #nome1{
+    font-size: 20px
+  }
+
+  em strong{
+    color: red;
+  }
+
+  .itens{
+    font-style: italic;
+  }
+
+  .beneficios{
+    background: #FFFFFF;   
+    padding: 20px;     
+  }
+
+  ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+  }
+
+  .imagembeneficios{
+    width: 50%;
+  }
+
+  footer{
+    text-align: center;
+    background: url(bg.jpg);
+    padding: 40px 0 ;
+  }
+
+  .copyright{
+    color: #FFFFFF;
+    font-size: 13px;
+    margin: 20px;
+  }
+
+  /* css da página inicial */
+  .banner{
+    width: 100%;
+  }
